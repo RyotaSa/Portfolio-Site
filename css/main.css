@@ -8,7 +8,7 @@ body {
 }
 
 .title-weight {
-    font-weight: 100
+    font-weight: 100;
 }
 
 .title-size {
@@ -38,7 +38,7 @@ a {
     margin-left: 10px;
 }
 
-img{
+img {
     border-radius: 20px;
 
 }
