@@ -1,0 +1,44 @@
+body {
+    font-family:"Oswald", serif;
+    color: black;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.title-weight {
+    font-weight: 100
+}
+
+.title-size {
+    font-size: 60px;
+}
+
+.textcolor {
+    color: #8e8d8d;
+}
+
+.col-md-12 {
+    padding: 10px;
+}
+
+.t-uppercase {
+    margin-left: 10px;
+    text-transform:uppercase;
+
+}
+
+.uppercase {
+    text-align: right;
+    text-transform: uppercase;
+}
+
+a {
+    margin-left: 10px;
+}
+
+img{
+    border-radius: 20px;
+
+}
